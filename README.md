@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **advanced java.**
 
-- 📝 I regularly write articles on [https://atmacacode.net/blog](https://blog.atmacacode.net)
+- 📝 I regularly write articles on [https://blog.atmacacode.net](https://blog.atmacacode.net)
 
 - 💬 Ask me about **python, java.**
 
