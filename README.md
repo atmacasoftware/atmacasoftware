@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atmacasoftware&label=Profile%20views&color=0e75b6&style=flat" alt="atmacasoftware" /> </p>
 
-- 🔭 I’m currently working on [My Personel Website](https://atmacacode.net)
+- 🔭 I’m currently working on [My Personel Website](https://atmacacode.com)
 
 - 🌱 I’m currently learning **advanced java.**
 
-- 📝 I regularly write articles on [https://blog.atmacacode.net](https://blog.atmacacode.net)
+- 📝 I regularly write articles on [https://blog.atmacacode.net](https://blog.atmacacode.com)
 
 - 💬 Ask me about **python, java.**
 
